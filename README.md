@@ -42,6 +42,7 @@ Developed APIs for technical applications commissioned by third parties, while i
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaglioFabiano&show_icons=true&theme=radical&hide_title=true)](https://github.com/VaglioFabiano)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaglioFabiano&layout=compact&theme=radical&hide_border=true)](https://github.com/VaglioFabiano)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaglioFabiano&theme=algolia&hide_border=false)](https://git.io/streak-stats)
+![Snake Animation](https://github.com/VaglioFabiano/VaglioFabiano/blob/main/assets/github-contribution-grid-snake.svg)
 
 ---
 
