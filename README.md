@@ -2,7 +2,9 @@
 
 I'm truly passionate about the ever-evolving world of technology, with a strong background in software development. Currently, I’m pursuing a Master's degree in Computer Engineering at the Politecnico di Torino, specializing in Artificial Intelligence and Data Analytics. I enjoy diving into new technologies, tackling complex challenges, and refining my skills to create efficient and impactful solutions.
 
-🛠️ **Skills & Technologies**  
+---
+
+## 🛠️ Skills & Technologies  
 **Programming Languages:**  
 Python, JavaScript, TypeScript, Php, C, C++, Rust, Kotlin, HTML  
 
@@ -15,28 +17,44 @@ Git, Docker, AWS, PostgreSQL, Google Cloud, Sass, CSS, Bootstrap, Pandas
 **Soft Skills:**  
 Teamwork, problem-solving, effective communication  
 
-🌟 **Key Highlights**  
+---
+
+## 🌟 Key Highlights  
 🎓 **Educational Background:** Earned my Bachelor's degree in Ingegneria Gestionale dell'informazione L-8.  
 🏆 **Certifications:** Certified English Level B2 (CEFR).  
 🌱 **Lifelong Learner:** Continuously enhancing my knowledge and exploring new areas in software development and AI.  
 
-🖥️📐🔧 **Work Experiences**  
+---
 
-**T.E.C. Technical Engineering Creative S.R.L.**  
+## 🖥️ Work Experiences  
+
+### **T.E.C. Technical Engineering Creative S.R.L.**  
 *Intern | July 2022 – December 2022*  
 Developed a web application component for technical certification of lifting systems, focusing on creating technical drawings in AutoCAD for the lift shaft and cabin layout.  
 
-**LYNK GROUP**  
+### **LYNK GROUP**  
 *January 2023 – October 2023*  
 Developed APIs for technical applications commissioned by third parties, while improving collaboration and communication skills with clients and colleagues.  
 
-📫 **Get in Touch**  
-📧 Email: fabiano.vaglio@gmail.com  
-💼 LinkedIn: [Fabiano Vaglio](https://www.linkedin.com/in/fabiano-vaglio-65149b254/)
+---
 
-💡 **A Little More About Me**  
+## 📊 GitHub Stats  
+[![Fabiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianoVaglio&show_icons=true&theme=radical)](https://github.com/VaglioFabiano)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoVaglio&layout=compact&theme=radical)](https://github.com/VaglioFabiano)  
+
+---
+
+## 🌐 Social  
+🔗 **LinkedIn:** [Fabiano Vaglio](https://www.linkedin.com/in/fabiano-vaglio-65149b254/)  
+📸 **Instagram:** [_fa.bi_99_](https://www.instagram.com/_fa.bi_99_/) 
+
+---
+
+## 💡 A Little More About Me  
 🧗‍♂️🏞️ In my free time, I often go climbing in the mountains.  
 🌱 Currently diving into React Native, with a particular interest in integrating Google Maps APIs.  
-🚀 Always excited to collaborate on innovative projects and discover new technologies!
+🚀 Always excited to collaborate on innovative projects and discover new technologies!  
+
+📫 **Get in Touch:** fabiano.vaglio@gmail.com  
 
 Thanks for stopping by! 😊
