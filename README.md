@@ -39,8 +39,8 @@ Developed APIs for technical applications commissioned by third parties, while i
 ---
 
 ## 📊 GitHub Stats  
-[![Fabiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianoVaglio&show_icons=true&theme=radical)](https://github.com/VaglioFabiano)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoVaglio&layout=compact&theme=radical)](https://github.com/VaglioFabiano)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaglioFabiano&show_icons=true&theme=radical&hide_title=true)](https://github.com/VaglioFabiano)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaglioFabiano&layout=compact&theme=radical&hide_border=true)](https://github.com/VaglioFabiano)
 
 ---
 
