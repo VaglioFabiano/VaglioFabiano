@@ -28,6 +28,10 @@ Teamwork, problem-solving, effective communication
 
 ## 🖥️ Work Experiences  
 
+### ** Clait srls ** 
+Master thesis worker  | September 2025 –  2026*
+Developed an advanced multi-agent architecture for Corporate Intelligence, gaining deep expertise in LLMs and autonomous agent orchestration via stateful graphs. By implementing self-healing patterns and reflection loops, the system automates complex due diligence through human-like reasoning and dynamic gap analysis.
+
 ### **T.E.C. Technical Engineering Creative S.R.L.**  
 *Intern | July 2022 – December 2022*  
 Developed a web application component for technical certification of lifting systems, focusing on creating technical drawings in AutoCAD for the lift shaft and cabin layout.  
